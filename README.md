@@ -2,6 +2,7 @@ Visitmeet
 ================
 
 [![Join the chat at https://gitter.im/VisitMeet/visitmeet](https://badges.gitter.im/VisitMeet/visitmeet.svg)](https://gitter.im/VisitMeet/visitmeet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Open Source Helpers](https://www.codetriage.com/bishisht/visitmeet/badges/users.svg)](https://www.codetriage.com/bishisht/visitmeet)
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
